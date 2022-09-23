@@ -3,4 +3,4 @@ Tag Line
 - anubhav
 - raghav
 
-![anubhav](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![anubhav](https://raw.githubusercontent.com/HaxOfficial/test/main/demo.png)
